@@ -31,18 +31,16 @@ PRINCE2 2017 Practitioner
 
 ## Experience
 
-**Trenmead** (August 2003 to July 2019)    
-*Operations Manager*  
-- 
+#### Trenmead (August 2003 to July 2019)    
+#### Operations Manager  
 
-**NHS** (2002)   
-*Intranet Developer*  
-- 
+#### NHS (2002)   
+#### Intranet Developer
 
-**SMi Group**
-*Website Content Coordinator*
--
+#### SMi Group
+#### Website Content Coordinator
 
-## Hobbies
+
+#### Hobbies
 
 
