@@ -1,55 +1,48 @@
-## Your Name
+## Julian George
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a full-stack developer with a passion for writing clean and readable code.  Having embarked on a 12-week full-time software engineering course with Makers Academy, I'm progressing to become confident and highly competent full-stack software developer and a team player.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Team Work
 
-#### This Skill
+I took the lead to ensure all areas of the business would be GDPR compliant.  The process began with reviewing GDPR policy and drafting a plan of action to be reviewed by a solicitor.  I then assessed the practicalities of the intention of work with relevant staff.  I then implemented a program, including new data storage and information processing policies and drafted privacy notice.
 
-- Experience
-- Achievements
-- Evidence
+#### Project Management
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I set up three online sales channels and added the first 500 products to inventory for all three platforms (with the assistance of an outsourced developer).  The business is now selling 1,000+ products on four online platforms.  The online platforms have completed over 10,000+ transactions while maintaining at least 99% positive customer feedback.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2019 - Present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bournemouth University (1999 - 2003)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Businesss Information Systems Management (BSc)
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+PRINCE2 2017 Practitioner
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Trenmead** (August 2003 to July 2019)    
+*Operations Manager*  
+- 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**NHS** (2002)   
+*Intranet Developer*  
+- 
+
+**SMi Group**
+*Website Content Coordinator*
+-
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+
