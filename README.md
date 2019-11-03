@@ -16,7 +16,6 @@ Being a great dev means you never stop learning, so I am continuing my studies b
 | [Acebook - OffTheRails](https://github.com/neilcam4/acebook-offtherails)     | A Facebook clone      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
 | [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A simple banking program      |   Ruby, Rspec |
 
-
 ## Skills
 
 #### Team Work
@@ -65,7 +64,7 @@ Intranet Developer
 
 As part of my degree I completed a 6 month full time paid internship. I created an Intranet site from scratch using Dreamweaver to help medical professionals share best practice information.
 
-#### SMi Group
+#### SMi Group (2001)
 Website Content Coordinator
 
 As part of my degree I also completed a 3 month full time paid internship.  I posted content daily following strict deadlines to four industry specific news portals using relavent press releases.  I also Produced advertising banners using Photoshop.
