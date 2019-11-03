@@ -8,6 +8,15 @@ I have thrived during the immersive and demanding course and particularly enjoye
 
 Being a great dev means you never stop learning, so I am continuing my studies by working on my own projects while looking forward to joining a team building larger-scale commercial projects.
 
+## Projects
+
+| Project        | Description            | Technologies  |
+| ------------- |:-------------:| -----:|
+| [BestB4](https://github.com/eashworth/BestB4)      | A web app that helps people waste less food. | Mongo DB, Express, React, Node JS, Cypress, Mocha |
+| [Acebook - OffTheRails](https://github.com/neilcam4/acebook-offtherails)     | A Facebook clone      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
+| [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A simple banking program      |   Ruby, Rspec |
+
+
 ## Skills
 
 #### Team Work
@@ -20,11 +29,11 @@ I set up three online sales channels and added the first 500 products to invento
 
 ## Education
 
-#### Makers Academy (August 2019 - Present)
+#### Makers Academy (August 2019 - November 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, HTML, CSS
 - RSpec, Jasmine
 
 #### Bournemouth University (1999 - 2003)
@@ -38,15 +47,27 @@ PRINCE2 2017 Practitioner
 ## Experience
 
 #### Trenmead (August 2003 to July 2019)    
-#### Operations Manager  
+Operations Manager
+
+I have covered many roles (most recently as an operations manager) in a family IT business which provides hardware, software and services.  
+Roles have included:
+
+1st and 2nd line IT support internally, remotely and on-site for clients.
+
+Setting up multiple online sales channels that have gone on to complete 10,000+ transactions globally.
+
+Account management generating £1m+ in sales of hardware and support contracts.
+
+Setting up an outsourced 24/7 help desk and professional services partnership providing IT support across 8 locations.
 
 #### NHS (2002)   
-#### Intranet Developer
+Intranet Developer
+
+As part of my degree I completed a 6 month full time paid internship. I created an Intranet site from scratch using Dreamweaver to help medical professionals share best practice information.
 
 #### SMi Group
-#### Website Content Coordinator
+Website Content Coordinator
 
+As part of my degree I also completed a 3 month full time paid internship.  I posted content daily following strict deadlines to four industry specific news portals using relavent press releases.  I also Produced advertising banners using Photoshop.
 
 #### Hobbies
-
-
