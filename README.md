@@ -70,7 +70,7 @@ Website Content Coordinator
 
 As part of my degree I also completed a 3 month full time paid internship.  I posted content daily following strict deadlines to four industry specific news portals using relavent press releases.  I also Produced advertising banners using Photoshop.
 
-#### Interests
+## Interests
 
 Travel - Love experiencing anything different from my usual surroundings from a walk in the New Forest to a few days in Las Vegas.  While experiencing all parts of different cultures is great, I particularly enjoy trying new food.
 
