@@ -54,13 +54,13 @@ I have covered many roles (most recently as an operations manager) for an IT bus
 
 Roles have included:
 
-Providing first and second line IT support internally, remotely and on-site for clients.
+ - Providing first and second line IT support internally, remotely and on-site for clients.
 
-Client account management, generating £1m+ in sales of hardware and support contracts.
+ - Client account management, generating £1m+ in sales of hardware and support contracts.
 
-Setting up an outsourced 24/7 help desk and professional services partnership providing IT support across 8 locations.
+ - Setting up an outsourced 24/7 help desk and professional services partnership providing IT support across 8 locations.
 
-Setting up multiple online sales channels and overseeing their growth to 10,000+ transactions globally.
+ - Setting up multiple online sales channels and overseeing their growth to 10,000+ transactions globally.
 
 #### NHS (2002)   
 Intranet Developer
