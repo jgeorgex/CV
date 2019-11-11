@@ -1,4 +1,4 @@
-<h1 align="center">Julian George</h1>
+<h1 align="left">Julian George</h1>
 
 
 
