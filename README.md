@@ -1,12 +1,12 @@
 ## Julian George
 
-I am a Software Developer, recently graduated from Makers Academy, with 16 years of previous experience working in the IT sector. 
+I'm a Full Stack Software Developer, recently graduated from Makers Academy with 16 years of previous experience working in the IT sector. 
 
-I decided earlier this year that now was the time to take on a new challenge.  After rekindling my interest in software development through online courses, books, blogs, podcasts, and speaking with any developer I could find, I decided to make the jump. I enroled on a 12-week full-time coding Bootcamp at Makers.
+I decided earlier this year that now was the time to take on a new challenge.  After rekindling my interest in software development through online courses, books, blogs, podcasts, and speaking with any developer I could find, I decided to make the jump and enrolled at Makers.
 
-I have thrived during the immersive and demanding course.  I particularly enjoyed working collaboratively with equally ambitious, focused and fun people.
+I have thrived during the immersive and demanding course and particularly enjoyed working collaboratively with equally ambitious, focused and fun people.
 
-Being a great dev means you never stop learning.  I am continuing my development by working on my own projects while looking forward to joining a team building larger-scale commercial projects.
+Being a great dev means you never stop learning.  I'm continuing my development by working on my own projects while looking forward to joining a team building larger-scale commercial projects.
 
 ## Projects
 
