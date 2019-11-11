@@ -12,9 +12,9 @@ Being a great dev means you never stop learning.  I am continuing my development
 
 | Project        | Description            | Technologies  |
 | ------------- |:-------------:| -----:|
-| [BestB4](https://github.com/eashworth/BestB4)      | A web app that helps people waste less food. | Mongo DB, Express, React, Node JS, Cypress, Mocha |
-| [Acebook - OffTheRails](https://github.com/neilcam4/acebook-offtherails)     | A Facebook clone      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
-| [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A simple banking program      |   Ruby, Rspec |
+| [BestB4](https://github.com/eashworth/BestB4)      | Makers Academy Final Group Project - A web app that helps people waste less food. | Mongo DB, Express, React, Node JS, Cypress |
+| [Acebook - OffTheRails](https://github.com/neilcam4/acebook-offtherails)     | Group project - A cone of Facebook      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
+| [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A solo tech test modeling bankl transactions      |   Ruby, Rspec |
 
 ## Skills
 
