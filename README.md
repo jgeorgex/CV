@@ -2,7 +2,7 @@
 
 
 
-I'm a Full Stack Software Developer, recently graduated from Makers Academy with 16 years of previous experience working in the IT sector. 
+I'm a Full Stack Software Developer, and as a recent Makers Academy graduate, I'm ready to write clean code with TDD and work in Agile teams.  With 16 years of previous experience working in the IT sector, I'm also commercially aware.
 
 I decided earlier this year that now was the time to take on a new challenge.  After rekindling my interest in software development through online courses, books, blogs, podcasts, and speaking with any developer I could find, I decided to make the jump and enrolled at Makers.
 
