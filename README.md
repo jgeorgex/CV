@@ -1,8 +1,7 @@
 <h1 align="left">Julian George</h1>
 
 
-
-I'm a Full Stack Software Developer, and as a recent Makers Academy graduate, I'm ready to write clean code with TDD and work in Agile teams.  With 16 years of previous experience working in the IT sector, I'm also commercially aware.
+I'm a Full Stack Software Engineer, and as a recent Makers Academy graduate, I'm ready to write clean code with TDD and work in Agile teams.  With 16 years of previous experience working in the IT sector, I'm also commercially aware.
 
 I decided earlier this year that now was the time to take on a new challenge.  After rekindling my interest in software development through online courses, books, blogs, podcasts, and speaking with any developer I could find, I decided to make the jump and enrolled at Makers.
 
@@ -20,9 +19,13 @@ Being a great dev means you never stop learning.  I'm continuing my development 
 
 ## Skills
 
-#### Team Work
+#### Test Driven Development
 
-In a previous role, I took the lead to ensure all areas of the business would be GDPR compliant. The process began with reviewing GDPR policy and drafting a plan of action to be reviewed by a solicitor. I then assessed the impact it would have staff. Finally, I implemented a program, including new data storage and information processing policies and drafted privacy notice.
+One of the fundamentals taught at Makers is TDD, and it's something I've found incredibly valuable as I progressed through the course.  I like the process of TDD as it encourages refactoring. So when you've completed writing your code is already optimal.  I've improved my TDD skills through several regular practices.  One was attending process workshops which is where you solve a problem under a time constraint (30 minutes) while been observed by another developer.  You then receive feedback from that developer about your process, so you know how to improve next time.  Another form of practice was through external reviews, these are when a representative from an independent code review company gives you a problem to solve, and then you solve it while they observe your process.  Similar to a process workshop except the whole process takes an hour, and the problem is presented to you verbally.  You also need to clarify requirements in much the same way you might if you where working with a product manager.  
+
+#### Communication
+
+In a previous role, I took the lead to ensure all areas of the business would be GDPR compliant. The process began with reviewing GDPR policy and drafting a plan of action to be reviewed by a solicitor. I then assessed the impact it would have staff. Finally, I implemented a program, including new data storage and information processing policies and drafted privacy notice.  As with most businesses, there was a significant consideration given to how technology interacts with data held by the company.  The process was a great lesson in gaining awareness of how information is stored and processed by software.
 
 #### Project Management
 
