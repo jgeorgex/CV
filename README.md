@@ -16,18 +16,19 @@ Being a great dev means you never stop learning.  I'm continuing my development 
 | [BestB4](https://github.com/eashworth/BestB4)      | Makers Academy Final Group Project - A web app that helps people waste less food. | Mongo DB, Express, React, Node JS, Cypress |
 | Acebook - OffTheRails [Repository](https://github.com/neilcam4/acebook-offtherails), [Hosted Site](https://pacific-bastion-51537.herokuapp.com/)     | Group project - A clone of Facebook      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
 | [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A solo tech test modelling bank transactions      |   Ruby, Rspec |
+| [Roomba](https://github.com/jgeorgex/roomba_tech_test)  | A solo tech test reporting the movements of an imaginary robotic hoover | Ruby, Rspec |
 
 ## Skills
 
-#### Communication
+#### :ear:Communication
 
 In a previous role, I took the lead to ensure all areas of the business would be GDPR compliant. The process began with reviewing GDPR policy and drafting a plan of action to be reviewed by a solicitor. I then assessed the impact it would have staff. Finally, I implemented a program, including new data storage and information processing policies and drafted privacy notice.  As with most businesses, there was a significant consideration given to how technology interacts with data held by the company.  The process was a great lesson in gaining awareness of how information is stored and processed by software.
 
-#### Project Management
+#### :open_file_folder:Project Management
 
 In a previous role, I set up three online sales channels and added the first 500 products to inventory.  The business is now selling 1,000+ products on four online platforms.  Once set up, I oversaw the online platforms which completed 10,000+ transactions globally while maintaining at least 99% positive customer feedback.
 
-#### Test Driven Development
+#### :white_check_mark:Test Driven Development
 
 One of the fundamentals taught at Makers is TDD, and it's something I've found incredibly valuable as I progressed through the course.  I like the process of TDD as it encourages refactoring. So when you've completed writing your code is already optimal.  I've improved my TDD skills through several regular practices.  One was attending process workshops which is where you solve a problem under a time constraint (30 minutes) while been observed by another developer.  You then receive feedback from that developer about your process, so you know how to improve next time.  Another form of practice was through external reviews, these are when a representative from an independent code review company gives you a problem to solve, and then you solve it while they observe your process.  Similar to a process workshop except the whole process takes an hour, and the problem is presented to you verbally.  You also need to clarify requirements in much the same way you might if you where working with a product manager.  
 
@@ -77,9 +78,9 @@ As part of my degree, I also completed a three-month full time paid internship. 
 
 ## Interests
 
-Travel - I love experiencing anything different from my usual surroundings, from a walk in the New Forest to a few days in Las Vegas.  While experiencing all parts of different cultures is great, I particularly enjoy trying new food.
+:airplane: Travel - I love experiencing anything different from my usual surroundings, from a walk in the New Forest to a few days in Las Vegas.  While experiencing all parts of different cultures is great, I particularly enjoy trying new food.
 
-Football - I love to put my optimistic nature to the test as a life long Arsenal fan.
+:soccer: Football - I love to put my optimistic nature to the test as a life long Arsenal fan.
 
-I mentor two Makers Academy students.
+:mortar_board: I mentor two Makers Academy students.
 
