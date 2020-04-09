@@ -1,6 +1,6 @@
 <h1 align="left">Julian George</h1>
 
-<div align=left><a href="https://github.com/jgeorgex/CV#projects">Projects</a> | <a href="https://github.com/jgeorgex/CV#skills">Skills</a> | <a href="https://github.com/jgeorgex/CV#education">Education</a> |  <a href="https://github.com/jgeorgex/CV#experience">Experience</a> | <a href="https://github.com/jgeorgex/CV#interests">Interests</a> | <a href="https://www.linkedin.com/in/jgeorgex/" target="_blank">LinkedIn</a> </div> <br>
+<div align=left><a href="https://github.com/jgeorgex/CV#projects">Projects</a> | <a href="https://github.com/jgeorgex/CV#skills">Skills</a> | <a href="https://github.com/jgeorgex/CV#education">Education</a> |  <a href="https://github.com/jgeorgex/CV#experience">Experience</a> | <a href="https://github.com/jgeorgex/CV#interests">Interests</a> | <a href="https://www.linkedin.com/in/jgeorgex/" target="_blank">LinkedIn</a> </div> | <a href="https://https://juliangeorge.tech/" target="_blank">Blog</a> </div> <br>
 
 I'm a Full Stack Software Engineer, and as a recent Makers Academy graduate, I'm ready to write clean code with TDD and work in Agile teams.  With 16 years of previous experience working in the IT sector, I'm also commercially aware.
 
