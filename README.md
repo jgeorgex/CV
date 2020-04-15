@@ -68,6 +68,8 @@ Roles have included:
  - Setting up an outsourced 24/7 help desk and professional services partnership providing IT support across 8 locations.
 
  - Setting up multiple online sales channels and overseeing their growth to 10,000+ transactions globally.
+ 
+ - Building a [website](http://trenmead.com/) using Wordpress with no previous experience.
 
 #### NHS (2002)   
 Intranet Developer
