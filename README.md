@@ -9,7 +9,7 @@ I decided that now is the time to take on a new challenge.  After rekindling my 
 
 I've thrived during the immersive and demanding course and particularly enjoyed working collaboratively with equally ambitious, focused and fun people.
 
-Being a great dev means you never stop learning.  I'm continuing my development by working on personal projects with Express, Node, Jest, Cypress and API's. I'm  now looking forward to joining a team building larger-scale commercial projects.
+Being a great dev means you never stop learning.  I'm continuing my development by working on personal projects with JavaScript, Express, Node, Jest, Cypress and API's. I'm  now looking forward to joining a team building larger-scale commercial projects.
 
 ## Projects
 
