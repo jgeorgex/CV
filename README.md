@@ -34,7 +34,9 @@ In a previous role, I set up three online sales channels and added the first 500
 
 #### :white_check_mark:Test Driven Development
 
-One of the fundamentals taught at Makers is TDD, and it's something I've found incredibly valuable as I progressed through the course.  I like the process of TDD as it encourages refactoring. So when you've completed writing your code is already optimal.  I've improved my TDD skills through several regular practices.  One was attending process workshops which is where you solve a problem under a time constraint (30 minutes) while been observed by another developer.  You then receive feedback from that developer about your process, so you know how to improve next time.  Another form of practice was through external reviews, these are when a representative from an independent code review company gives you a problem to solve, and then you solve it while they observe your process.  Similar to a process workshop except the whole process takes an hour, and the problem is presented to you verbally.  You also need to clarify requirements in much the same way you might if you where working with a product manager.  
+A fundamental taught at Makers is TDD. It's something I've found valuable as I progressed through the course. I like TDD because it encourages refactoring. So when you've completed writing your code, it is optimal. I've improved my TDD through regular practice. I attended process workshops where you solve a problem within a time constraint. You then receive feedback about your process, so you know how to improve next time. 
+
+Another form of practice was external reviews. These are completed with a code review professional.  The problem is presented to you verbally, and you also need to clarify requirements before working on a solution.  You then receive feedback on your process.
 
 ## Education
 
@@ -52,6 +54,7 @@ Business Information Systems Management (BSc)
 #### Other qualifications
 
 Project Management - Certified PRINCE2 Practitioner
+Shopify Business & Product Fundamentals Certified
 
 ## Experience
 
