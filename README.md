@@ -7,9 +7,9 @@ href="https://juliangeorge.tech/" target="_blank">Portfolio & Blog 👈</a> </di
 
 I decided that now is the time to take on a new challenge.  After rekindling my interest in software development through online courses, books, blogs, podcasts, and speaking with any developer I could find, I decided to make the jump and enrolled at Makers.
 
-I have thrived during the immersive and demanding course and particularly enjoyed working collaboratively with equally ambitious, focused and fun people.
+I've thrived during the immersive and demanding course and particularly enjoyed working collaboratively with equally ambitious, focused and fun people.
 
-Being a great dev means you never stop learning.  I'm continuing my development by working on personal projects while looking forward to joining a team building larger-scale commercial projects.
+Being a great dev means you never stop learning.  I'm continuing my development by working on personal projects with Express, Node, Jest, Cypress and API's. I'm  now looking forward to joining a team building larger-scale commercial projects.
 
 ## Projects
 
