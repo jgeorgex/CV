@@ -54,6 +54,7 @@ Business Information Systems Management (BSc)
 #### Other qualifications
 
 Project Management - Certified PRINCE2 Practitioner <br>
+Google Analytics Certification 2020 <br>
 Shopify Business & Product Fundamentals Certified
 
 ## Experience
