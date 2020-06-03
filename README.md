@@ -16,7 +16,7 @@ Being a great dev means you never stop learning.  I'm continuing my development 
 | Project        | Description            | Technologies  |
 | ------------- |:-------------:| -----:|
 | [BestB4](https://github.com/eashworth/BestB4)      | Makers Academy Final Group Project - A web app that helps people waste less food. | Mongo DB, Express, React, Node JS, Cypress |
-| Cat Match <br> [Repository](https://github.com/jgeorgex/Cat-Match), [Hosted Site](http://hidden-gorge-72365.herokuapp.com/)       | Solo project - A web app to help find the breed of Cat thats right for you! | JavaScript, Bootstrap, Mongo DB, Express, Node JS, Heroku |
+| Cat Match <br> [Repository](https://github.com/jgeorgex/Cat-Match), [Hosted Site](http://hidden-gorge-72365.herokuapp.com/)       | Solo project - A web app to help find the breed of Cat thats right for you! | JavaScript, Bootstrap, Chai, Cypress, Express, Node JS, Heroku |
 | Car Cost <br> [Repository](https://github.com/jgeorgex/car-tco-calculator), [Hosted Site](https://car-tco-calculator.herokuapp.com/)       | Solo project - A web app to help find the true monthly cost of running your car! | JavaScript, Jest, Cypress, HTML, CSS, Bulma, Node, Express, Heroku |
 | Acebook - OffTheRails [Repository](https://github.com/neilcam4/acebook-offtherails), [Hosted Site](https://pacific-bastion-51537.herokuapp.com/)     | Group project - A clone of Facebook      |   Ruby on Rails, Javascript, Travis CI, Rubocop, Heroku |
 | [Bank](https://github.com/jgeorgex/week10/tree/master/Bank_tech_test) | A solo tech test modelling bank transactions      |   Ruby, Rspec |
@@ -24,15 +24,15 @@ Being a great dev means you never stop learning.  I'm continuing my development 
 
 ## Skills
 
-#### :ear:Communication
+####  :ear:Communication
 
 In a previous role, I took the lead to ensure all areas of the business would be GDPR compliant. The process began with reviewing GDPR policy and drafting a plan of action to be reviewed by a solicitor. I then assessed the impact it would have staff. Finally, I implemented a program, including new data storage and information processing policies and drafted privacy notice.  As with most businesses, there was a significant consideration given to how technology interacts with data held by the company.  The process was a great lesson in gaining awareness of how information is stored and processed by software.
 
-#### :open_file_folder:Project Management
+####  :open_file_folder:Project Management
 
 In a previous role, I set up three online sales channels and added the first 500 products to inventory.  The business is now selling 1,000+ products on four online platforms.  Once set up, I oversaw the online platforms which completed 10,000+ transactions globally while maintaining at least 99% positive customer feedback.
 
-#### :white_check_mark:Test Driven Development
+####  :white_check_mark:Test Driven Development
 
 A fundamental taught at Makers is TDD. It's something I've found valuable as I progressed through the course. I like TDD because it encourages refactoring. So when you've completed writing your code, it is optimal. I've improved my TDD through regular practice. I attended process workshops where you solve a problem within a time constraint. You then receive feedback about your process, so you know how to improve next time. 
 
